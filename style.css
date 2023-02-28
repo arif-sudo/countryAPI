@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+}
+#cont {
+    width: 100% !important;
+    margin-left: 150px !important;
+    margin-top: 0px;
+}
+button {
+    height: 50px;
+    width: 50px;
+}
